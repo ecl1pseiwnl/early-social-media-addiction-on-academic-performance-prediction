@@ -1,4 +1,4 @@
-# Early Social Media Addiction On Academic Performance Prediction
+# Impact Analysis Of Social Media On Academic Performance
 End-to-End Machine Learning web application built for assessing social media addiction risk levels based on ~16 features extracted from data set.
 
 [![Mathematics & Computer Science](https://img.shields.io/badge/Mathematics%20%26%20Computer%20Science-Student-003B73)](math.hcmus.edu.vn)
