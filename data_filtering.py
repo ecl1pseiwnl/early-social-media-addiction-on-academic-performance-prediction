@@ -3,11 +3,11 @@ import pandas as pd
 
 # Load raw dataset file
 try:
-    dframe = pd.read_csv("social-media-addiction-impact-prediction-dataset.csv")
+    dframe = pd.read_csv("social-media-impact-dataset.csv")
 
     # Define target columns
     target_column = [
-                    "Student_ID", "Age", "Gender", "Academic_Level", 
+                    "Age", "Gender", "Academic_Level", 
                      "Primary_Platform", "Daily_Usage_Hours", "Weekend_Extra_Hours",
                      "Device_Type", "Sleep_Duration_Hours", "Sleep_Quality_Score",
                      "Late_Night_Usage", "Social_Comparison_Frequency", "Perceived_Stress_Score",
